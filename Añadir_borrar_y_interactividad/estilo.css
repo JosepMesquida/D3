@@ -1,0 +1,14 @@
+p {
+  width: 125px;
+  padding: 5px;
+  border: 1px solid;
+  border-radius: 10px;
+  text-align: center; }
+
+p:first-of-type {
+                  border-color: greenyellow;
+                  background-color: greenyellow; }
+
+p:nth-of-type(2) {
+                  border-color: tomato;
+                  background-color: tomato; }
